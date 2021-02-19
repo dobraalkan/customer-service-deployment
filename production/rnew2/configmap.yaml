@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: customer-service
+data:
+  application.properties: |-
+    quarkus.http.auth.permission.authenticated1.paths=/api/*
+    quarkus.http.auth.permission.authenticated1.policy=authenticated

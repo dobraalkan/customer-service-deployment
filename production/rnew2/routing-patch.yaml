@@ -1,0 +1,5 @@
+- op: add
+  path: /spec/traffic/-
+  value:
+    tag: rnew2
+    revisionName: qommerce-rnew2

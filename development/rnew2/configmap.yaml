@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: spring-kubernetes-example
+  name: customer-service
 data:
   application.properties: |-
     maxilog.keycloak.realm=local
