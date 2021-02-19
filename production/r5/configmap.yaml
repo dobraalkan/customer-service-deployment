@@ -4,4 +4,4 @@ metadata:
   name: customer-service
 data:
   application.properties: |-
-    environment.name=dev
+    quarkus.profile=prod
