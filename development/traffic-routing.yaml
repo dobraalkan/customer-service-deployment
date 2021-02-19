@@ -1,5 +1,0 @@
-- op: add
-  path: /spec/traffic
-  value:
-    - revisionName: customer-service-r9ce9024
-      percent: 100
