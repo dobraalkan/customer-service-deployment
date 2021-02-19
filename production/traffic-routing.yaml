@@ -1,5 +1,0 @@
-- op: add
-  path: /spec/traffic
-  value:
-    - revisionName: qommerce-r9ce9024
-      percent: 100
