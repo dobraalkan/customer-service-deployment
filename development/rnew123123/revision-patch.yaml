@@ -1,7 +1,7 @@
 - op: add
   path: /spec/template/metadata
   value:
-    name: qommerce-r9ce9024
+    name: qommerce-rnew123123
 - op: add
   path: /spec/template/spec/containers/0/image
   value:
