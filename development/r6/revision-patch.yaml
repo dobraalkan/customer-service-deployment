@@ -1,7 +1,7 @@
 - op: add
   path: /spec/template/metadata
   value:
-    name: customer-service-r5
+    name: customer-service-r6
 - op: add
   path: /spec/template/spec/containers/0/image
   value:
